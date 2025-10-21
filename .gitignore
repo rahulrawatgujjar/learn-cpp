@@ -1,1 +1,8 @@
+# Ignore all files
+*
+# Re-include all directories
+!*/
+# Re-include all files with an extension
+!*.*
+
 /.vscode/
